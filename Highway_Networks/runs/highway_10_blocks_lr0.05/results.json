@@ -1,0 +1,25 @@
+{
+  "model": "highway",
+  "blocks": 10,
+  "channels": 64,
+  "epochs": 50,
+  "batch_size": 128,
+  "lr": 0.05,
+  "seed": 42,
+  "best_val_acc": 87.0,
+  "best_epoch": 50,
+  "test_acc": 86.68,
+  "test_loss": 0.4438,
+  "test_gate_means": [
+    0.228,
+    0.235,
+    0.26,
+    0.346,
+    0.302,
+    0.37,
+    0.375,
+    0.337,
+    0.462,
+    0.615
+  ]
+}

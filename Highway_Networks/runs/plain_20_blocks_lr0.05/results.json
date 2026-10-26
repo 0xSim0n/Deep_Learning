@@ -1,0 +1,14 @@
+{
+  "model": "plain",
+  "blocks": 20,
+  "channels": 64,
+  "epochs": 50,
+  "batch_size": 128,
+  "lr": 0.05,
+  "seed": 42,
+  "best_val_acc": 10.64,
+  "best_epoch": 22,
+  "test_acc": 10.0,
+  "test_loss": 2.3028,
+  "test_gate_means": []
+}
